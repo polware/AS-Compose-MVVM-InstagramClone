@@ -35,5 +35,5 @@ MVVM Architecture
  ### Post Details page
 ![News Detail](Images/Post_details.jpg)
 
- ### Commetns page
+ ### Comments page
 ![News Detail](Images/Comments_page.jpg)
