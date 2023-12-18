@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "679690664874",
+    "firebase_url": "https://kotlinfirebase-a19b4-default-rtdb.firebaseio.com",
+    "project_id": "kotlinfirebase-a19b4",
+    "storage_bucket": "kotlinfirebase-a19b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679690664874:android:a17086224b4b27295c49d3",
+        "android_client_info": {
+          "package_name": "com.polware.instagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679690664874-g6m68pdfbcrkum4mmdinved654r3edrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvJgUBuALfHblN3EEV6LPmwOW3hTr6O2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679690664874-g6m68pdfbcrkum4mmdinved654r3edrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679690664874:android:63aa79d675e7a51e5c49d3",
+        "android_client_info": {
+          "package_name": "com.polware.onlinetaskmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679690664874-g6m68pdfbcrkum4mmdinved654r3edrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvJgUBuALfHblN3EEV6LPmwOW3hTr6O2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679690664874-g6m68pdfbcrkum4mmdinved654r3edrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
